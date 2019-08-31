@@ -1,6 +1,10 @@
 /*
 File: preload_images.js
 For learning purposes
+
+Rogerio Snarli
+rogerio@snarli.no
+31th August 2019
 */
 
 var images = new Array();
