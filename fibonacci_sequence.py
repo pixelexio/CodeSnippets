@@ -12,7 +12,6 @@ A gibonacci number/sequence is when each number is the sum of the two preceding 
 starting from 0 and 1. Example: 0, 1, 1, 2, 3, 5, 8, 13...
 """
 
-
 def recur_fibo(n):
    if n <= 1:
        return n
