@@ -1,19 +1,17 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+__author__ = "Rogerio Snarli"
+__email__ = "rogerio@snarli.no"
+__date__ = "31th August 2019"
+
 """
-File: formats.py
+File: fibonacci_sequence.py
 For learning purposes
-Rogerio Snarli - 2019
 
-A gibonacci number/sequence is when each number is the sum of the two preceding ones, starting from 0 and 1.
-
-0 1 1 2 3 5 8
-0+1=1
-  1+1=2
-    1+2=3
-      2+3=5
-        3+5=8
-          5+8=...
+A gibonacci number/sequence is when each number is the sum of the two preceding ones, 
+starting from 0 and 1. Example: 0, 1, 1, 2, 3, 5, 8, 13...
 """
+
 
 def recur_fibo(n):
    if n <= 1:
