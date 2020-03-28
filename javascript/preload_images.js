@@ -2,9 +2,10 @@
 File: preload_images.js
 For learning purposes
 
-Rogerio Snarli
-rogerio@snarli.no
+pixelexio
+hello@pixelex.io
 31th August 2019
+GPLv3
 */
 
 var images = new Array();

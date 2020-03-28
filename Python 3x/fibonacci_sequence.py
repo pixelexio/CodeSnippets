@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = "Rogerio Snarli"
-__email__ = "rogerio@snarli.no"
-__date__ = "31th August 2019"
+__author__ = 'pixelexio'
+__email__ = 'hello@pixelex.io'
+__license__ = 'GPLv3'
 
 """
-File: fibonacci_sequence.py
-For learning purposes
-
 A gibonacci number/sequence is when each number is the sum of the two preceding ones, 
 starting from 0 and 1. Example: 0, 1, 1, 2, 3, 5, 8, 13...
 """

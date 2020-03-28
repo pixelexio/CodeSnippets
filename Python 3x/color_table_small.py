@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+__author__ = 'pixelexio'
+__email__ = 'hello@pixelex.io'
+__license__ = 'GPLv3'
+
+"""
+Small table of ANSI text color codes.
+"""
 import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
