@@ -7,10 +7,9 @@ __license__ = 'GPLv3'
 """
 Small table of ANSI text color codes.
 """
-import os
+import os, sys
 os.system('cls' if os.name == 'nt' else 'clear')
 
-import sys
 for i in range(0, 16):
     for j in range(0, 16):
         code = str(i * 16 + j)
